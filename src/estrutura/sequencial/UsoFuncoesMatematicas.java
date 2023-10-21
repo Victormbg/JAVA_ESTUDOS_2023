@@ -1,6 +1,6 @@
-import java.util.Scanner;
+package estrutura.sequencial;
 
-public class FuncoesMatematicas {
+public class UsoFuncoesMatematicas {
     public static void main(String[] args) {
         double x = 3.0;
         double y = 4.0;
