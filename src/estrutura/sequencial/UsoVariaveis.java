@@ -1,6 +1,8 @@
+package estrutura.sequencial;
+
 import java.util.Locale;
 
-public class Variaveis_Exercicio {
+public class UsoVariaveis {
     public static void main(String[] args) {
         String product1 = "Computer";
         String product2 = "Office desk";
