@@ -1,4 +1,4 @@
-package outros.topicos.basicos;
+package outrosTopicosBasicos;
 
 import java.util.Locale;
 import java.util.Scanner;

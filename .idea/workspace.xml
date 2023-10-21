@@ -4,22 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="230a59f9-4a60-4dbd-ac1d-ea3ec55a9b49" name="Changes" comment="Adicionando o pdf e codigos do pdf 4">
-      <change afterPath="$PROJECT_DIR$/pdfCurso/05-estrutura-condicional.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdfCurso/06-estruturas-repetitivas.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estrutura/condicional/Switch_Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estrutura/condicional/UsoElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estrutura/condicional/UsoIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estrutura/repetitivas/UsoDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/outros/topicos/basicos/UsoBitWise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/outros/topicos/basicos/UsoEquacaRaizQuadradaSegundoGrau.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/outros/topicos/basicos/UsoFuncaoMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/outros/topicos/basicos/UsoFuncoesString.java" afterDir="false" />
+    <list default="true" id="230a59f9-4a60-4dbd-ac1d-ea3ec55a9b49" name="Changes" comment="Adicionando os codigos e PDF para Slides 5,6,7">
+      <change afterPath="$PROJECT_DIR$/src/ConstrutoresThisSobrecargaEncapsulamento/ProgramProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConstrutoresThisSobrecargaEncapsulamento/entities/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesAtributosMembrosStaticos/ProgramProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesAtributosMembrosStaticos/ProgramTriangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesAtributosMembrosStaticos/entities/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesAtributosMembrosStaticos/entities/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EntradaDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrutura/sequencial/UsoScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FuncoesMatematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrutura/sequencial/UsoFuncoesMatematicas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrutura/sequencial/UsoSystemOutPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variaveis_Exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrutura/sequencial/UsoVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/outros/topicos/basicos/UsoBitWise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/outrosTopicosBasicos/UsoBitWise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/outros/topicos/basicos/UsoEquacaRaizQuadradaSegundoGrau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/outrosTopicosBasicos/UsoEquacaRaizQuadradaSegundoGrau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/outros/topicos/basicos/UsoFuncaoMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/outrosTopicosBasicos/UsoFuncaoMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/outros/topicos/basicos/UsoFuncoesString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/outrosTopicosBasicos/UsoFuncoesString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +76,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/victor/IdeaProjects/Estudos/pdfCurso",
+    "last_opened_file_path": "C:/Users/victor/IdeaProjects/Estudos/src/ConstrutoresThisSobrecargaEncapsulamento",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,6 +88,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\victor\IdeaProjects\Estudos\src\ConstrutoresThisSobrecargaEncapsulamento" />
       <recent name="C:\Users\victor\IdeaProjects\Estudos\pdfCurso" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -107,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697900198236</updated>
-      <workItem from="1697900200308" duration="2931000" />
+      <workItem from="1697900200308" duration="5119000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro Commit">
       <option name="closed" value="true" />
@@ -149,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697901926211</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adicionando os codigos e PDF para Slides 5,6,7">
+      <option name="closed" value="true" />
+      <created>1697903241012</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697903241012</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +187,8 @@
     <MESSAGE value="Primeiro Commit" />
     <MESSAGE value="Alteracao" />
     <MESSAGE value="Adicionando o pdf e codigos do pdf 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando o pdf e codigos do pdf 4" />
+    <MESSAGE value="Adicionando os codigos e PDF para Slides 5,6,7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando os codigos e PDF para Slides 5,6,7" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

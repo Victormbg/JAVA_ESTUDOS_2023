@@ -1,4 +1,4 @@
-package outros.topicos.basicos;
+package outrosTopicosBasicos;
 
 import java.util.Scanner;
 
